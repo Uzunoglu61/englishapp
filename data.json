@@ -1,0 +1,154 @@
+{
+    "words": [
+      {
+        "word": "time",
+        "definition": "the indefinite continued progress of existence",
+        "synonyms": ["duration", "period", "era"]
+      },
+      {
+        "word": "person",
+        "definition": "a human being regarded as an individual",
+        "synonyms": ["individual", "human", "being"]
+      },
+      {
+        "word": "year",
+        "definition": "period of 365 days",
+        "synonyms": ["twelve months", "calendar year", "annum"]
+      },
+      {
+        "word": "way",
+        "definition": "method or manner of doing something",
+        "synonyms": ["method", "approach", "technique"]
+      },
+      {
+        "word": "day",
+        "definition": "period of 24 hours",
+        "synonyms": ["twenty-four hours", "solar day", "date"]
+      },
+      {
+        "word": "thing",
+        "definition": "an object that is not alive",
+        "synonyms": ["object", "item", "artifact"]
+      },
+      {
+        "word": "man",
+        "definition": "adult male human",
+        "synonyms": ["male", "gentleman", "fellow"]
+      },
+      {
+        "word": "world",
+        "definition": "the earth and all its inhabitants",
+        "synonyms": ["globe", "planet", "earth"]
+      },
+      {
+        "word": "life",
+        "definition": "the existence of an individual",
+        "synonyms": ["existence", "being", "animation"]
+      },
+      {
+        "word": "hand",
+        "definition": "body part at the end of the arm",
+        "synonyms": ["palm", "fist", "extremity"]
+      },
+      {
+        "word": "part",
+        "definition": "piece or segment of something",
+        "synonyms": ["portion", "section", "segment"]
+      },
+      {
+        "word": "child",
+        "definition": "young human being",
+        "synonyms": ["kid", "youngster", "minor"]
+      },
+      {
+        "word": "eye",
+        "definition": "organ of vision",
+        "synonyms": ["optic", "peeper", "orb"]
+      },
+      {
+        "word": "woman",
+        "definition": "adult female human",
+        "synonyms": ["lady", "female", "dame"]
+      },
+      {
+        "word": "place",
+        "definition": "particular position or area",
+        "synonyms": ["location", "spot", "site"]
+      },
+      {
+        "word": "work",
+        "definition": "activity involving mental or physical effort",
+        "synonyms": ["labor", "toil", "employment"]
+      },
+      {
+        "word": "week",
+        "definition": "period of seven days",
+        "synonyms": ["seven-day period", "hebdomad", "workweek"]
+      },
+      {
+        "word": "case",
+        "definition": "instance of something occurring",
+        "synonyms": ["instance", "example", "situation"]
+      },
+      {
+        "word": "point",
+        "definition": "particular spot or position",
+        "synonyms": ["location", "position", "spot"]
+      },
+      {
+        "word": "government",
+        "definition": "governing body of a nation",
+        "synonyms": ["administration", "regime", "authority"]
+      },
+      {
+        "word": "company",
+        "definition": "business organization",
+        "synonyms": ["firm", "corporation", "enterprise"]
+      },
+      {
+        "word": "number",
+        "definition": "mathematical value",
+        "synonyms": ["numeral", "digit", "figure"]
+      },
+      {
+        "word": "group",
+        "definition": "collection of people or things",
+        "synonyms": ["collection", "assembly", "category"]
+      },
+      {
+        "word": "problem",
+        "definition": "matter requiring solution",
+        "synonyms": ["difficulty", "issue", "challenge"]
+      },
+      {
+        "word": "fact",
+        "definition": "thing known to be true",
+        "synonyms": ["reality", "certainty", "truth"]
+      },
+      {
+        "word": "be",
+        "definition": "exist or occur",
+        "synonyms": ["exist", "live", "occur"]
+      },
+      {
+        "word": "have",
+        "definition": "possess or own",
+        "synonyms": ["possess", "own", "hold"]
+      },
+      {
+        "word": "do",
+        "definition": "perform or execute",
+        "synonyms": ["perform", "execute", "accomplish"]
+      },
+      {
+        "word": "say",
+        "definition": "utter words",
+        "synonyms": ["speak", "declare", "state"]
+      },
+      {
+        "word": "get",
+        "definition": "come to have",
+        "synonyms": ["obtain", "acquire", "receive"]
+      }
+    ]
+  }
